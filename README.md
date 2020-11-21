@@ -1,2 +1,2 @@
 # PomoTimer
-A simple pomodoro timer with customizable configurations.
+A simple react based pomodoro timer with customizable configurations.
